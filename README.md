@@ -19,10 +19,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Missing compliance pain in the 🐴](https://undeadpixel.dev/snippets/nonExempt)
+- [Lottie Animations 🐘](https://undeadpixel.dev/snippets/lottie)
+- [Check if Email is valid](https://undeadpixel.dev/snippets/validEmail)
 - [SKCropNode and sizing, SpriteKit Adventures pt2](https://undeadpixel.dev/articles/SpriteKitAdventurept2)
 - [SpriteKit Node positioning on all screen sizes](https://undeadpixel.dev/articles/SpriteKitAdventure)
-- [Website_vF236final5](https://undeadpixel.dev/articles/ItsAlive)
-- [Screen Space in ARKit (+tutorial)](https://undeadpixel.dev/articles/ScreenSpace)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://undeadpixel.dev
