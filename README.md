@@ -15,7 +15,7 @@
 [<img align="left" alt="roblack | LinkedIn" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
 [<img align="left" alt="roblack | Instagram" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />][instagram]
 
-<br/>
+<br/><br/>
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
