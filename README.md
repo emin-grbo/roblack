@@ -21,6 +21,10 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SKCropNode and sizing, SpriteKit Adventures pt2](https://undeadpixel.dev/articles/SpriteKitAdventurept2)
+- [SpriteKit Node positioning on all screen sizes](https://undeadpixel.dev/articles/SpriteKitAdventure)
+- [Website_vF236final5](https://undeadpixel.dev/articles/ItsAlive)
+- [Screen Space in ARKit (+tutorial)](https://undeadpixel.dev/articles/ScreenSpace)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://undeadpixel.dev
