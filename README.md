@@ -1,4 +1,4 @@
-<img align="center" alt="roblack's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roblack&show_icons=true&theme=synthwave&count_private=true" />
+<img align="center" alt="roblack's Github Stats" src="https://github-readme-stats.vercel.app/api?username=roblack&show_icons=true&theme=buefy&count_private=true" />
 
 ## Hi there, I'm Emin - aka roblack for gamer friends 🕹
 ### a UX designer turned iOS Developer
@@ -26,9 +26,10 @@
 [<img align="left" alt="roblack | LinkedIn" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
 [<img align="left" alt="roblack | Instagram" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />][instagram] 
 
-
-
-
+h1 {
+   font-weight: bold;
+   font-style: normal;
+}
 
 [website]: https://undeadpixel.dev
 [twitter]: https://twitter.com/emin_roblack
