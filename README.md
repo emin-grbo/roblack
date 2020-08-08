@@ -26,11 +26,6 @@
 [<img align="left" alt="roblack | LinkedIn" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg" />][linkedin]
 [<img align="left" alt="roblack | Instagram" width="32px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg" />][instagram] 
 
-h1 {
-   font-weight: bold;
-   font-style: normal;
-}
-
 [website]: https://undeadpixel.dev
 [twitter]: https://twitter.com/emin_roblack
 [linkedin]: https://www.linkedin.com/in/r0black/
