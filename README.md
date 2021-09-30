@@ -7,7 +7,7 @@
 <img align="center" alt="undeadpixel.dev" width="22px" src="https://image.flaticon.com/icons/svg/644/644460.svg" />  Currently working on: [swiftUIViews][sui] \
 <img align="center" alt="undeadpixel.dev" width="22px" src="https://image.flaticon.com/icons/svg/3209/3209029.svg" />  Currently employed: @ TIDAL as an iOS Developer. \
 <img align="center" alt="undeadpixel.dev" width="22px" src="https://image.flaticon.com/icons/svg/3285/3285719.svg" />  Learning swiftUI whenever i can \
-<img align="center" alt="undeadpixel.dev" width="22px" src="https://image.flaticon.com/icons/svg/3165/3165466.svg" />  2020 Goals: Contribute more to...anything. \
+<img align="center" alt="undeadpixel.dev" width="22px" src="https://image.flaticon.com/icons/svg/3165/3165466.svg" />  2021 Goals: Contribute more to...anything. \
 <img align="center" alt="undeadpixel.dev" width="22px" src="https://image.flaticon.com/icons/svg/2997/2997154.svg" />  Fun fact: I love seadless watermellons. 
 
 ### 📕 Latest Blog Posts
